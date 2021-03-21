@@ -1,10 +1,8 @@
 // import React from 'react';
 import React, {useCallback, useMemo, useState, useEffect} from 'react';
 // import SlotM from './Slots';
-import ListTable from './table';
 import { makeStyles } from '@material-ui/core/styles';
 import LocalPlayIcon from '@material-ui/icons/LocalPlay';
-import PopOver from './PopOver';
 import Header from './Header';
 import Button from '@material-ui/core/Button';
 import Table from '@material-ui/core/Table';
